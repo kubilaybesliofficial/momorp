@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-text": "^3.2.5",
+    "react-view": "^2.3.7"
+  }
+}
